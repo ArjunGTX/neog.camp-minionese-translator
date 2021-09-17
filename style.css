@@ -26,6 +26,7 @@ body{
 .header-section img {
     margin: 15px 15px 15px 60px;
     transition: all 0.4s;
+    width: 100px;
 }
 .header-section img:hover {
     transform: rotate(10deg);
