@@ -15,6 +15,7 @@ function translate() {
         })
         .catch(err =>{
             console.log("error occurred : ", err);
+            alert("Server is Busy! Please try after some time.");
         } 
         );
 }
